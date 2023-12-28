@@ -2,7 +2,7 @@
 
 This repository demonstrates dockerizing and deploying a [Rust](https://www.rust-lang.org/) application to Back4app Containers.
 
-To learn more, visit this article [How to Deploy a Rust Application With Back4app](https://blog.back4app.com/next-js-deployment/)
+To learn more, visit this article [How to Deploy a Rust Application With Back4app](https://blog.back4app.com/how-to-deploy-a-rust-application-with-back4app/)
 
 ## Dockerize Your Application
 
@@ -31,14 +31,11 @@ To learn more, visit this article [How to Deploy a Rust Application With Back4ap
 
 4. Link your GitHub account to the Back4app application
 
-   ![link-github](assets/link-github.webp)
 
 5. Select the application’s repository
 
-   ![select-repository](assets/select-repository.webp)
 
 6. Deploy the application
 
-   ![deployed-application](assets/deployed-application.webp)
 
-Your Rust app will now been deployed on the Back4app container platform!
+Your Rust app will now be deployed on the Back4app container platform!
