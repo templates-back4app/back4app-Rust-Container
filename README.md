@@ -26,16 +26,11 @@ To learn more, visit this article [How to Deploy a Rust Application With Back4ap
 1. Push the application to a GitHub repository
 2. Set Up Your Back4app Account
 3. Create a Back4app CaaS application
-
-   ![new-back4app-application](assets/new-back4app-application.webp)
-
 4. Link your GitHub account to the Back4app application
-
-
 5. Select the application’s repository
 
 
-6. Deploy the application
+7. Deploy the application
 
 
 Your Rust app will now be deployed on the Back4app container platform!
